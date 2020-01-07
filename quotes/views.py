@@ -59,3 +59,6 @@ def delete(request, stock_id):
 def delete_page(request):
     ticker = Stock.objects.all()
     return render (request, 'delete_page.html', {'ticker': ticker})
+
+
+#this is just a comment
