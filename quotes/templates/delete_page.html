@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+{% extends 'base.html'%}
+{% block content %}
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Delete</title>
+</head>
+<body>
+
+    <h1>Delete Stock</h1>
+    {% if ticker %}
+        {% for item in ticker %}
+            {{item}} -- <td><a href= "{% url 'delete' item.id%}"> Delete </a><br/></td>
+        {% endfor %}
+    {% endif %}
+
+
+
+</body>
+</html>
+
+{% endblock %}
+
+
+
