@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efa859ba-003d-4a1d-bd6d-1dac326a86e2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotes/templates/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/quotes/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quotes/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/quotes/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +74,7 @@
       <workItem from="1578144177683" duration="243000" />
       <workItem from="1578144509640" duration="23822000" />
       <workItem from="1578383629402" duration="6176000" />
+      <workItem from="1578400178582" duration="381000" />
     </task>
     <servers />
   </component>
@@ -86,14 +89,19 @@
       <screen x="0" y="23" width="1440" height="817" />
     </state>
     <state x="445" y="241" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.817@0.23.1440.817" timestamp="1578144503435" />
+    <state x="314" y="33" key="CommitChangelistDialog2" timestamp="1578400483551">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="314" y="33" key="CommitChangelistDialog2/0.23.1440.815@0.23.1440.815" timestamp="1578400483551" />
     <state width="234" height="457" key="HiddenNamespacesPopup" timestamp="1578144826972">
       <screen x="0" y="23" width="1440" height="817" />
     </state>
     <state width="234" height="457" key="HiddenNamespacesPopup/0.23.1440.817@0.23.1440.817" timestamp="1578144826972" />
-    <state x="399" y="263" key="com.intellij.ide.util.TipDialog" timestamp="1578383629912">
-      <screen x="0" y="23" width="1440" height="813" />
+    <state x="399" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1578400179609">
+      <screen x="0" y="23" width="1440" height="815" />
     </state>
     <state x="399" y="263" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1578383629912" />
+    <state x="399" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.815@0.23.1440.815" timestamp="1578400179609" />
     <state x="399" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.817@0.23.1440.817" timestamp="1578144178960" />
   </component>
 </project>

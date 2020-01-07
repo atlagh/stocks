@@ -17,10 +17,10 @@ def home(request):
 
                api = "this quote is not available please check the spelling"
 
-        return render (request, 'index.html', {'api': api})
+        return render (request, 'home.html', {'api': api})
 
     else:
-        return render (request, 'index.html', {'ticker': "Enter sympol above"})
+        return render (request, 'home.html', {'ticker': "Enter sympol above"})
 
 
 
